@@ -1,0 +1,44 @@
+.container{
+    position: fixed;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(194, 230, 122);
+    justify-content: space-around;
+    align-items: end;
+}
+.box{
+    background-color: bisque;
+    height: 330px;
+}
+ul>li{
+    text-decoration: none;
+    list-style: none;
+}
+
+.img1{
+    background-color: bisque;
+}
+.con{
+    height: 30px;
+    width: 200px;
+    background-color: aqua;
+    border: 5px solid aqua;
+    border-radius: 30%;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    justify-content: space-between;
+}
+.boss{
+    width: 100%;
+    height: 500px;
+    border: 2px solid black;
+    background-color: rgb(4, 153, 246);
+}
+.use{
+    border: 5px solid aqua;
+    border-radius: 30%;
+    background-color: aqua;
+}
